@@ -1,0 +1,22 @@
+color_map = {
+    'Bitmap': 'magenta',
+    'SuperImposedBitmap': 'peru',
+    'vEBTree': 'olivedrab',
+    'vEBBitmap': 'lime',
+    'vEBBitmapMin': 'turquoise',
+    # 'vEBTree': 'red',
+    # 'vEBBitmap': 'blue',
+    # 'vEBBitmapMin': 'yellow',
+    'ChainedDivisionHashTable': 'cyan',
+    'SplayTree': 'yellow',
+    'RedBlackTree': 'red',
+    'BinaryTrie': 'black',
+    'BinaryPTrie': 'purple',
+    'LinkedList': 'royalblue',
+    'HashTableBitmap': 'orange',
+    'DynamicHashTableBitmap': 'red',
+    'ABHashTable': 'purple',
+    'PerfectHashTable': 'lime',
+    'ABHashTableRBT': 'cyan',
+    'OpenAddressingHashTable': 'black'
+}

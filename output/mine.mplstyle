@@ -1,0 +1,8 @@
+axes.titlesize : 40
+axes.labelsize : 40
+lines.linewidth : 5
+lines.markersize : 18
+xtick.labelsize : 30
+ytick.labelsize : 30
+font.family: serif
+legend.fontsize: xx-large
